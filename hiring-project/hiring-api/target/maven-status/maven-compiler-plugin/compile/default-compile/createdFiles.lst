@@ -1,0 +1,6 @@
+com/example/hiring/api/JobRepository.class
+com/example/hiring/api/Application.class
+com/example/hiring/api/ApplicationRepository.class
+com/example/hiring/api/Job.class
+com/example/hiring/api/JobController.class
+com/example/hiring/api/HiringApiApplication.class

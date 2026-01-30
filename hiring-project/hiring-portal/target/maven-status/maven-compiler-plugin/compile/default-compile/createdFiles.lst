@@ -1,0 +1,6 @@
+com/example/hiring/portal/Job.class
+com/example/hiring/portal/JobService.class
+com/example/hiring/portal/PortalController.class
+com/example/hiring/portal/Application.class
+com/example/hiring/portal/SecurityConfig.class
+com/example/hiring/portal/HiringPortalApplication.class
